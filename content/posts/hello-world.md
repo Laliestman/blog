@@ -1,11 +1,11 @@
 ---
 title: "Hello World"
 date: 2023-07-03T19:49:33+08:00
-draft: true
+draft: false
 ---
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+This is my first blog!
 
-Visit the [Hugo](https://gohugo.io) website!
+Keep it up!
